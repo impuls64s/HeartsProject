@@ -1,0 +1,8 @@
+fastapi==0.111.0
+SQLAlchemy==2.0.31
+psycopg2-binary==2.9.9
+aiosmtplib==3.0.1
+aioredis==2.0.1
+bcrypt==4.2.0
+pydantic-extra-types==2.9.0
+phonenumbers==8.13.43
